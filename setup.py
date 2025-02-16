@@ -18,7 +18,7 @@ setup(
     license="MIT",
     packages=find_packages(),
     install_requires=REQUIRES,
-    description="FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs",
+    description="A study FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs",
     long_description="""FinRobot""",
     classifiers=[
         # Trove classifiers
